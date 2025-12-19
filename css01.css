@@ -1,0 +1,48 @@
+
+body{margin:0;font-family: Tahoma;background:#ccc8c5}
+.Back-IS{width:1000;background:#f2eeec }
+A {TEXT-DECORATION: none; }
+
+#Header-IS{width:1000;background:url('https://s6.uupload.ir/files/header02_sep7.jpg') no-repeat top;height:400;vertical-align:top;direction:rtl;}
+#Header-IS a{color:#1c4063;margin:0 8}
+#Header-IS a:hover{color:#78593b}
+
+#BlogTitle{color:#48443d;text-align:center;font-size:18pt;font-weight: bold;padding:70 0 0 0;font-family:Times New Roman;}
+#BlogDescription{padding:0 0 0 0;direction:rtl;font-size:9pt;color:#48443d;text-align:center} 
+
+.TopMenu{color:#82866c;font-size:9pt;padding:185 100 0 0;text-align:center;}
+
+.TopPost{width:540;height:68;background:url('https://s6.uupload.ir/files/post1_lsx5.gif') no-repeat top right;direction:rtl;text-align:right;
+font-size:8pt;}
+.TopPost a{color:#48443d}
+.TopPost2{padding:31 67 0 20;}
+.CenterPost{width:540;background:url('https://s6.uupload.ir/files/post2_45ip.gif') repeat-y right;direction:rtl;text-align:right;color:#333333;font-size:8pt;;overflow:hidden}
+.CenterPost2{padding:10 15 10 15}
+.LowPost3{width:540;background:url('https://s6.uupload.ir/files/post3_f9s3.gif') no-repeat top right;height:68;text-align:right}
+.CPost3{padding:35 33 0 0}
+.CenterPost a{color:#c64233}
+
+.date{width:350px;float:right;direction:rtl;font-size:8pt;color:#243d3c;}
+.Comment{width:100px;float:left;direction:rtl;font-size:8pt;color:#2b3d20;text-align:center;}
+.Comment a{color:#2b3d20;}
+.Comment a:hover{color:#c64233;}
+.Comment{padding:0 0 0 10}
+
+#rightmenu{width:210;float:left;}
+#leftmenu{width:210;float:right;}
+
+.TopSid{width:210;background:url('https://s6.uupload.ir/files/sid1_y3fo.gif') no-repeat top right;height:50;direction:rtl;color:#48443d;font-size:8pt;}
+.TopSid2{padding:24 43 0 0;text-align:right}
+.CenterSid{width:210;float:left;direction:rtl;color:#444444;font-size:8pt;background:url('https://s6.uupload.ir/files/sid2_633v.gif') repeat-y right;}
+.CenterSid a{color:#444444;}
+.CenterSid a:hover{color:#c64233} 
+.li-Sid{padding:3 25 0 5;background:url(li.gif) 190px 6px  no-repeat}
+.li-Sid2 span{color:#1192b0;font-size:8pt;font-weight:bold}
+.li-Sid2{padding:0 10 5 10;}
+.LowSid{width:210;background:url('https://s6.uupload.ir/files/sid3_ou4c.gif') no-repeat top right;height:27;float:right}
+
+#footer-IS{text-align:center;background:url('footer.gif') repeat-x top;font-size:8pt;color:#243d3c;direction:rtl;height:100}
+#footer-IS a{color:#243d3c}
+#footer-IS a:hover{color:#c64233}
+#footer-IS{padding:57 10 5 120;}
+
